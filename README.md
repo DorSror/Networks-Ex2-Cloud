@@ -1,4 +1,4 @@
-# File Backup Server
+# File Backup System (Server + Client)
  A simple file backing up system, composed of a server script and a client script.
  Allows backing up of directories onto the server and their recoveries.
 
